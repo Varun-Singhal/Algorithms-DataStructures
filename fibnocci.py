@@ -1,3 +1,9 @@
+"""
+Program to find the nth fibnocci number
+Time Complexity - O(2^n)
+Space Complexity - O(1)
+"""
+
 import sys
 
 def fibnocci(n):
